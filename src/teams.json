@@ -1,0 +1,23 @@
+[
+    {
+       "id": "1",
+       "nombre": "River",
+       "presidente": "Jorge Brito",
+       "pais": "Argentina",
+       "fundacion": "1901"
+    },
+    {
+        "id": "2",
+       "nombre": "Barcelona",
+       "presidente": "Joan Laporta",
+       "pais": "España",
+       "fundacion": "1899"
+    },
+    {
+        "id": "3",
+       "nombre": "Independiente",
+       "presidente": "Hugo Moyano",
+       "pais": "Argentina",
+       "fundacion": "1905"
+    }
+]
